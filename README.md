@@ -1,4 +1,4 @@
-# Solanape 🐉
+# Solanape 
 
 > **Crypto payments as simple as UPI** — Send & receive SOL and SKR tokens on Solana, powered by Phantom wallet.
 
